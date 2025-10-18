@@ -147,8 +147,7 @@ Camera functionality is experimental and may have issues:
 |-------|----------|
 | No detections | Increase motion sensitivity, adjust Gaussian blur |
 | Too many false positives | Increase motion threshold, increase bbox threshold |
-| Slow processing | Reduce video resolution or increase Gaussian blur |
-| Application crashes on camera close | This is a known issue; use video files instead |
+
 
 ## Contributing
 
