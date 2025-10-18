@@ -14,6 +14,30 @@ MotionEye is a PyQt6 desktop app for detecting motion in video files using frame
 - Save video with bounding boxes
 - Optional live camera preview
 
+## Screenshots
+
+- **Main Window**
+
+![Main Window](screenshots/1_main_window.png)
+
+- **Video Loaded**
+
+![Video Loaded](screenshots/2_video_loaded.png)
+
+- **File Menu (Open Video)**
+
+![File Menu](screenshots/3_file_menu_for_opening_files.png)
+
+- **Detection In Progress (Camera)**
+
+![Detection In Progress - Camera](screenshots/3_detection_in_progress_using_camera.png)
+
+
+
+- **Parameter Bar**
+
+![Parameter Bar](screenshots/5_parameter_bar.png)
+
 ## Quick Start
 
 ### Prerequisites
