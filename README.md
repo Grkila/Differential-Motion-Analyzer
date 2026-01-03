@@ -173,18 +173,6 @@ Camera functionality is experimental and may have issues:
 | Too many false positives | Increase motion threshold, increase bbox threshold |
 
 
-## Contributing
-
-Contributions are welcome. You can submit issues or pull requests.
-
-## License
-
-This project is developed for educational purposes.
-
-## Author
-
-Motion Detection Student Team
-
 ---
 
 Tips: Start with default parameters and adjust for your video.
